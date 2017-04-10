@@ -202,7 +202,7 @@ coord = tf.train.Coordinator()
 threads = tf.train.start_queue_runners(sess=sess,coord=coord)
 
 # start training
-nSteps=1000
+nSteps=1500
 for i in range(nSteps):
 
     batch_xs, batch_ys = sess.run([imageBatch, labelBatch])
@@ -211,7 +211,7 @@ for i in range(nSteps):
     train_step.run(feed_dict={x: batch_xs, y_: batch_ys, keep_prob: 0.5})
 
 
-    if (i+1)%100 == 0: # then perform validation 
+    if (i+1)%50 == 0: # then perform validation 
 
       # get a validation batch
       vbatch_xs, vbatch_ys = sess.run([vimageBatch, vlabelBatch])
