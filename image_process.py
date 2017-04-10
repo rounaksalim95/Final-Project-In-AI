@@ -69,7 +69,7 @@ def convert_gray_scale(img_file):
             gray_scale = int(0.299*pixels[i,j][0] + 0.587*pixels[i,j][1] + 0.114*pixels[i,j][2])
             pixels[i,j] = (gray_scale, gray_scale, gray_scale)
 
-    outfile = img_file[:-4] + "-gs.jpg"
+    outfile = img_file[:-4] + "g.jpg"
     img.save(outfile)
 
 
@@ -213,11 +213,11 @@ def collect_pixel_info_clr(img_direct, file_start, file_end, label):
     write_list("pixel_info_clr_" + str(label) + ".csv", pixel_info)
 
 
-def process_gray_scale(img_direct, file_start, file_end):
+def process_gray_scale(img_direct, name, file_start, file_end):
     """convert images to gray scale in a directory in batch"""
     for x in xrange(file_start,file_end+1):
-        convert_gray_scale(img_direct+str(x)+".jpg")
-        print "gray scale: " + str(x) + " finished..."
+        convert_gray_scale(img_direct+name+str(x)+"-s.jpg")
+        # print "gray scale: " + str(x) + " finished..."
 
 
 def process_rescale(img_direct, file_start, file_end):

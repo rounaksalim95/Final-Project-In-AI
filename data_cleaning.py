@@ -20,13 +20,13 @@ from image_process import *
 # At the second step, we will have to convert the downloaded image
 # to gray scale version, and save separately.
 
-fruits = ['Watermelon']
+fruits = ['Apple','Banana', 'Grape', 'Orange', 'Watermelon']
 start_index = 1
 end_index = 100
 
-# for fruit in fruits:
-#     process_gray_scale('./pic/' + fruit + '/', start_index, end_index)
-# print "Finished converting to gray scale..."
+for fruit in fruits:
+    process_gray_scale('./pic/' + fruit + '/', str(fruit.lower()), start_index, end_index)
+print "Finished converting to gray scale..."
 
 
 # Step 3 - Rescale images to 256*256
@@ -34,9 +34,9 @@ end_index = 100
 # At this step we will make further modifications to gray scale
 # images by rescaling them to 256*256.
 
-for fruit in fruits:
-	process_rescale_s('./pic/' + fruit + '/', fruit, start_index, end_index)
-print "Finished rescaling..."
+# for fruit in fruits:
+# 	process_rescale_s('./pic/' + fruit + '/', fruit, start_index, end_index)
+# print "Finished rescaling..."
 
 
 # Step 4 - Save res
