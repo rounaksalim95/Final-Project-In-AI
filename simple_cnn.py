@@ -161,7 +161,8 @@ b_fc1 = bias_variable([nNeuronsfc])
 
 # flatten output from previous layer
 h_pool2_flat = tf.reshape(h_pool2, [-1, (width/4) * (height/4) * nFeatures2])
-h_fc1 = tf.nn.relu(tf.matmul(h_pool2_flat, W_fc1) + b_fc1)
+# h_fc1 = tf.nn.relu(tf.matmul(h_pool2_flat, W_fc1) + b_fc1)
+h_fc1 = tf.sigmoid(tf.matmul(h_pool2_flat, W_fc1) + b_fc1)
 
 # reduce overfitting by applying dropout
 # each neuron is kept with probability keep_prob
@@ -180,6 +181,7 @@ y=tf.nn.softmax(tf.matmul(h_fc1_drop, W_fc2) + b_fc2)
 
 # measure of error of our model
 # this needs to be minimised by adjusting W and b
+# cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y), reduction_indices=[1]))
 cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y), reduction_indices=[1]))
 
 # define training step which minimises cross entropy
@@ -211,14 +213,13 @@ for i in range(nSteps):
     train_step.run(feed_dict={x: batch_xs, y_: batch_ys, keep_prob: 0.5})
 
 
-    if (i+1)%50 == 0: # then perform validation 
+    if (i+1)%5 == 0: # then perform validation 
 
       # get a validation batch
       vbatch_xs, vbatch_ys = sess.run([vimageBatch, vlabelBatch])
       train_accuracy = accuracy.eval(feed_dict={
         x:vbatch_xs, y_: vbatch_ys, keep_prob: 1.0})
       print("step %d, training accuracy %g"%(i+1, train_accuracy))
-
 
 # finalise 
 coord.request_stop()
