@@ -98,7 +98,7 @@ def resize_small(img_file):
     img.save(outfile)
 
 
-def resize_small_256(img_file):
+def resize_small_256(img_file, name):
     """rescale an image to 256*256, disregarding its wh ratio"""
     img = Image.open(img_file)
     pixels = img.load()
@@ -106,7 +106,7 @@ def resize_small_256(img_file):
     base = 256
     img = img.resize((base,base), Image.ANTIALIAS)
     
-    outfile = img_file[:-4] + "-256.jpg"
+    outfile = img_file[:-4] + '_' + str(name.lower()) + ".jpg"
     img.save(outfile)
 
 
@@ -225,9 +225,9 @@ def process_rescale(img_direct, file_start, file_end):
         resize_small(img_direct+str(x)+".jpg")
 
 
-def process_rescale_256(img_direct, file_start, file_end):
+def process_rescale_256(img_direct, name, file_start, file_end):
     for x in xrange(file_start,file_end+1):
-        resize_small_256(img_direct+str(x)+"-gs.jpg")
+        resize_small_256(img_direct+str(x)+".jpg", name)
 
 
 def process_rescale_s(img_direct, name, file_start, file_end):

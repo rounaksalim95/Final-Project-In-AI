@@ -24,9 +24,9 @@ fruits = ['Apple','Banana', 'Grape', 'Orange', 'Watermelon']
 start_index = 1
 end_index = 100
 
-for fruit in fruits:
-    process_gray_scale('./data/' + fruit + '/', str(fruit.lower()), start_index, end_index)
-print "Finished converting to gray scale..."
+# for fruit in fruits:
+#     process_gray_scale('./pic/' + fruit + '/', str(fruit.lower()), start_index, end_index)
+# print "Finished converting to gray scale..."
 
 
 # Step 3 - Rescale images to 256*256
@@ -34,9 +34,9 @@ print "Finished converting to gray scale..."
 # At this step we will make further modifications to gray scale
 # images by rescaling them to 256*256.
 
-# for fruit in fruits:
-# 	process_rescale_s('./data/' + fruit + '/', fruit, start_index, end_index)
-# print "Finished rescaling..."
+for fruit in fruits:
+    process_rescale_256('./pic/' + fruit + '/', fruit, start_index, end_index)
+print "Finished rescaling..."
 
 
 # Step 4 - Save res
