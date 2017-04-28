@@ -1,0 +1,244 @@
+INFO:root:Initializing session and begin threading..
+INFO:root:Epoch 000000 || Total Loss -0.4162102640 || Generator Loss -0.4052499831 || Discriminator Loss -0.0109602800
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492975171.3699744'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 000100 || Total Loss -38.9211006165 || Generator Loss -1.9534043074 || Discriminator Loss -36.9676971436
+INFO:root:Epoch 000200 || Total Loss -62.3360023499 || Generator Loss -3.3620252609 || Discriminator Loss -58.9739761353
+INFO:root:Epoch 000300 || Total Loss -37.9946403503 || Generator Loss -6.8412699699 || Discriminator Loss -31.1533699036
+INFO:root:Epoch 000400 || Total Loss -113.1779403687 || Generator Loss -27.7465648651 || Discriminator Loss -85.4313735962
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492976944.1564748'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 000500 || Total Loss -159.2795715332 || Generator Loss -80.3036651611 || Discriminator Loss -78.9759063721
+INFO:root:Epoch 000600 || Total Loss -204.3524169922 || Generator Loss -24.8963737488 || Discriminator Loss -179.4560394287
+INFO:root:Epoch 000700 || Total Loss -280.1927490234 || Generator Loss -291.7965087891 || Discriminator Loss 11.6037511826
+INFO:root:Epoch 000800 || Total Loss -311.4394226074 || Generator Loss -16.0349655151 || Discriminator Loss -295.4044494629
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492978703.2267423'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 000900 || Total Loss -281.2152099609 || Generator Loss -16.5567283630 || Discriminator Loss -264.6584777832
+INFO:root:Epoch 001000 || Total Loss -94.6933441162 || Generator Loss -15.7747135162 || Discriminator Loss -78.9186325073
+INFO:root:Epoch 001100 || Total Loss -481.3076782227 || Generator Loss -98.5372161865 || Discriminator Loss -382.7704772949
+INFO:root:Epoch 001200 || Total Loss -557.7543945312 || Generator Loss -18.3300476074 || Discriminator Loss -539.4243164062
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492980460.9622126'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 001300 || Total Loss -79.4373550415 || Generator Loss -25.2968273163 || Discriminator Loss -54.1405258179
+INFO:root:Epoch 001400 || Total Loss -499.4444274902 || Generator Loss -154.4139099121 || Discriminator Loss -345.0305175781
+INFO:root:Epoch 001500 || Total Loss -696.9878540039 || Generator Loss -24.2167320251 || Discriminator Loss -672.7711181641
+INFO:root:Epoch 001600 || Total Loss -706.4053955078 || Generator Loss -15.1986312866 || Discriminator Loss -691.2067871094
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492982219.6184678'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 001700 || Total Loss -295.9050292969 || Generator Loss -179.3343505859 || Discriminator Loss -116.5706634521
+INFO:root:Epoch 001800 || Total Loss -618.9505004883 || Generator Loss -30.3185634613 || Discriminator Loss -588.6319580078
+INFO:root:Epoch 001900 || Total Loss -1022.5239257812 || Generator Loss -43.9850769043 || Discriminator Loss -978.5388183594
+INFO:root:Epoch 002000 || Total Loss -940.1864624023 || Generator Loss -37.8003768921 || Discriminator Loss -902.3861083984
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492983974.0099604'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 002100 || Total Loss -1177.4489746094 || Generator Loss -15.1945991516 || Discriminator Loss -1162.2543945312
+INFO:root:Epoch 002200 || Total Loss -1220.6481933594 || Generator Loss -433.6459045410 || Discriminator Loss -787.0022583008
+INFO:root:Epoch 002300 || Total Loss -1255.5249023438 || Generator Loss -26.3740558624 || Discriminator Loss -1229.1508789062
+INFO:root:Epoch 002400 || Total Loss -1095.5643310547 || Generator Loss -123.7263412476 || Discriminator Loss -971.8379516602
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492985733.2970324'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 002500 || Total Loss -1341.3544921875 || Generator Loss -43.7204513550 || Discriminator Loss -1297.6340332031
+INFO:root:Epoch 002600 || Total Loss -1289.7700195312 || Generator Loss -1584.3004150391 || Discriminator Loss 294.5303649902
+INFO:root:Epoch 002700 || Total Loss -1714.0352783203 || Generator Loss -38.4396171570 || Discriminator Loss -1675.5957031250
+INFO:root:Epoch 002800 || Total Loss -1848.6094970703 || Generator Loss -67.7509231567 || Discriminator Loss -1780.8585205078
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492987493.7172906'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 002900 || Total Loss -1918.9705810547 || Generator Loss -38.6369857788 || Discriminator Loss -1880.3336181641
+INFO:root:Epoch 003000 || Total Loss -2042.9351806641 || Generator Loss -218.6007385254 || Discriminator Loss -1824.3344726562
+INFO:root:Epoch 003100 || Total Loss -1731.3676757812 || Generator Loss -86.1975097656 || Discriminator Loss -1645.1701660156
+INFO:root:Epoch 003200 || Total Loss -2118.6743164062 || Generator Loss -145.9651947021 || Discriminator Loss -1972.7091064453
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492989252.5839264'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 003300 || Total Loss -2174.9741210938 || Generator Loss -58.8795280457 || Discriminator Loss -2116.0944824219
+INFO:root:Epoch 003400 || Total Loss -2358.9829101562 || Generator Loss -43.6030693054 || Discriminator Loss -2315.3798828125
+INFO:root:Epoch 003500 || Total Loss -2412.7102050781 || Generator Loss -62.9230613708 || Discriminator Loss -2349.7871093750
+INFO:root:Epoch 003600 || Total Loss -2220.6027832031 || Generator Loss -79.4676666260 || Discriminator Loss -2141.1350097656
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492991013.2556682'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 003700 || Total Loss -1699.7542724609 || Generator Loss -324.1929626465 || Discriminator Loss -1375.5612792969
+INFO:root:Epoch 003800 || Total Loss -2500.7304687500 || Generator Loss -52.4633560181 || Discriminator Loss -2448.2670898438
+INFO:root:Epoch 003900 || Total Loss -2597.3906250000 || Generator Loss -65.3474426270 || Discriminator Loss -2532.0432128906
+INFO:root:Epoch 004000 || Total Loss -2662.5778808594 || Generator Loss -51.8070373535 || Discriminator Loss -2610.7707519531
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492992772.3488092'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 004100 || Total Loss -2983.8991699219 || Generator Loss -140.3715820312 || Discriminator Loss -2843.5275878906
+INFO:root:Epoch 004200 || Total Loss -3212.6862792969 || Generator Loss -165.8025512695 || Discriminator Loss -3046.8837890625
+INFO:root:Epoch 004300 || Total Loss -3487.8530273438 || Generator Loss -68.7789001465 || Discriminator Loss -3419.0742187500
+INFO:root:Epoch 004400 || Total Loss -3192.2202148438 || Generator Loss -140.2231292725 || Discriminator Loss -3051.9970703125
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492994531.298487'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 004500 || Total Loss -3287.9987792969 || Generator Loss -306.1159057617 || Discriminator Loss -2981.8828125000
+INFO:root:Epoch 004600 || Total Loss -3918.6906738281 || Generator Loss -92.2559127808 || Discriminator Loss -3826.4348144531
+INFO:root:Epoch 004700 || Total Loss -2774.9091796875 || Generator Loss -716.7733764648 || Discriminator Loss -2058.1357421875
+INFO:root:Epoch 004800 || Total Loss -4196.4472656250 || Generator Loss -109.3500366211 || Discriminator Loss -4087.0974121094
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492996288.7422054'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 004900 || Total Loss -4276.4311523438 || Generator Loss -227.4959564209 || Discriminator Loss -4048.9350585938
+INFO:root:Epoch 005000 || Total Loss -3594.3930664062 || Generator Loss -116.9503936768 || Discriminator Loss -3477.4426269531
+INFO:root:Epoch 005100 || Total Loss -3575.2336425781 || Generator Loss -185.8493652344 || Discriminator Loss -3389.3842773438
+INFO:root:Epoch 005200 || Total Loss -3926.8479003906 || Generator Loss -251.7126312256 || Discriminator Loss -3675.1352539062
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492998048.7785087'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 005300 || Total Loss -4253.7377929688 || Generator Loss -134.9488372803 || Discriminator Loss -4118.7890625000
+INFO:root:Epoch 005400 || Total Loss -4886.2846679688 || Generator Loss -251.9485778809 || Discriminator Loss -4634.3359375000
+INFO:root:Epoch 005500 || Total Loss -4600.5942382812 || Generator Loss -120.4590225220 || Discriminator Loss -4480.1352539062
+INFO:root:Epoch 005600 || Total Loss -5174.1821289062 || Generator Loss -105.0922393799 || Discriminator Loss -5069.0898437500
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1492999810.4923296'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 005700 || Total Loss -4916.9335937500 || Generator Loss -202.6182861328 || Discriminator Loss -4714.3154296875
+INFO:root:Epoch 005800 || Total Loss -4852.1645507812 || Generator Loss -315.9631042480 || Discriminator Loss -4536.2016601562
+INFO:root:Epoch 005900 || Total Loss -5929.9228515625 || Generator Loss -478.1073913574 || Discriminator Loss -5451.8154296875
+INFO:root:Epoch 006000 || Total Loss -7651.2070312500 || Generator Loss -2706.9223632812 || Discriminator Loss -4944.2846679688
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493001569.2886925'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 006100 || Total Loss -4887.9570312500 || Generator Loss -208.9055175781 || Discriminator Loss -4679.0517578125
+INFO:root:Epoch 006200 || Total Loss -3003.2180175781 || Generator Loss -267.3227539062 || Discriminator Loss -2735.8952636719
+INFO:root:Epoch 006300 || Total Loss -5394.5156250000 || Generator Loss -406.8728637695 || Discriminator Loss -4987.6425781250
+INFO:root:Epoch 006400 || Total Loss -6727.7841796875 || Generator Loss -279.4413452148 || Discriminator Loss -6448.3427734375
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493003329.8968973'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 006500 || Total Loss -4137.4702148438 || Generator Loss -523.5363159180 || Discriminator Loss -3613.9340820312
+INFO:root:Epoch 006600 || Total Loss -7045.3393554688 || Generator Loss -325.5318298340 || Discriminator Loss -6719.8076171875
+INFO:root:Epoch 006700 || Total Loss -6256.7382812500 || Generator Loss -226.5290527344 || Discriminator Loss -6030.2089843750
+INFO:root:Epoch 006800 || Total Loss -5947.3315429688 || Generator Loss -223.7559967041 || Discriminator Loss -5723.5756835938
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493005087.3002918'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 006900 || Total Loss -7673.9902343750 || Generator Loss -190.1806030273 || Discriminator Loss -7483.8095703125
+INFO:root:Epoch 007000 || Total Loss -7990.4482421875 || Generator Loss -1264.5917968750 || Discriminator Loss -6725.8564453125
+INFO:root:Epoch 007100 || Total Loss -5116.7607421875 || Generator Loss -946.7158203125 || Discriminator Loss -4170.0449218750
+INFO:root:Epoch 007200 || Total Loss -8217.1279296875 || Generator Loss -660.9997558594 || Discriminator Loss -7556.1284179688
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493006844.8636544'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 007300 || Total Loss -8048.9394531250 || Generator Loss -326.9749755859 || Discriminator Loss -7721.9643554688
+INFO:root:Epoch 007400 || Total Loss -6069.1718750000 || Generator Loss -1363.6623535156 || Discriminator Loss -4705.5097656250
+INFO:root:Epoch 007500 || Total Loss -8638.2539062500 || Generator Loss -186.6909484863 || Discriminator Loss -8451.5625000000
+INFO:root:Epoch 007600 || Total Loss -8515.8769531250 || Generator Loss -257.1831970215 || Discriminator Loss -8258.6933593750
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493008605.417604'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 007700 || Total Loss -5238.6689453125 || Generator Loss -1027.2189941406 || Discriminator Loss -4211.4501953125
+INFO:root:Epoch 007800 || Total Loss -8529.7500000000 || Generator Loss -369.2508544922 || Discriminator Loss -8160.4990234375
+INFO:root:Epoch 007900 || Total Loss -9171.4101562500 || Generator Loss -394.8369445801 || Discriminator Loss -8776.5732421875
+INFO:root:Epoch 008000 || Total Loss -9182.1523437500 || Generator Loss -657.9854736328 || Discriminator Loss -8524.1669921875
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493010363.7117975'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 008100 || Total Loss -9961.3876953125 || Generator Loss -436.4382934570 || Discriminator Loss -9524.9492187500
+INFO:root:Epoch 008200 || Total Loss -9426.0156250000 || Generator Loss -290.3913269043 || Discriminator Loss -9135.6240234375
+INFO:root:Epoch 008300 || Total Loss -10415.1943359375 || Generator Loss -287.8486328125 || Discriminator Loss -10127.3457031250
+INFO:root:Epoch 008400 || Total Loss -3900.5881347656 || Generator Loss -298.6931152344 || Discriminator Loss -3601.8950195312
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493012121.9374018'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 008500 || Total Loss -6065.3989257812 || Generator Loss -1071.4876708984 || Discriminator Loss -4993.9111328125
+INFO:root:Epoch 008600 || Total Loss -11038.6064453125 || Generator Loss -1019.9857177734 || Discriminator Loss -10018.6210937500
+INFO:root:Epoch 008700 || Total Loss -9913.7978515625 || Generator Loss -377.2821350098 || Discriminator Loss -9536.5156250000
+INFO:root:Epoch 008800 || Total Loss -9946.9013671875 || Generator Loss -932.7083129883 || Discriminator Loss -9014.1933593750
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493013879.6881685'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 008900 || Total Loss -9649.9892578125 || Generator Loss -501.0458374023 || Discriminator Loss -9148.9433593750
+INFO:root:Epoch 009000 || Total Loss -11857.2714843750 || Generator Loss -456.5386657715 || Discriminator Loss -11400.7324218750
+INFO:root:Epoch 009100 || Total Loss -11554.0859375000 || Generator Loss -474.5402221680 || Discriminator Loss -11079.5458984375
+INFO:root:Epoch 009200 || Total Loss -10551.4638671875 || Generator Loss -410.2310180664 || Discriminator Loss -10141.2324218750
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493015641.8219204'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 009300 || Total Loss -12194.9160156250 || Generator Loss -426.1799926758 || Discriminator Loss -11768.7363281250
+INFO:root:Epoch 009400 || Total Loss -11320.0332031250 || Generator Loss -819.5629272461 || Discriminator Loss -10500.4707031250
+INFO:root:Epoch 009500 || Total Loss -13030.8828125000 || Generator Loss -576.0718994141 || Discriminator Loss -12454.8105468750
+INFO:root:Epoch 009600 || Total Loss -12777.3261718750 || Generator Loss -469.8877258301 || Discriminator Loss -12307.4384765625
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493017401.7270563'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 009700 || Total Loss -12305.1884765625 || Generator Loss -539.1347045898 || Discriminator Loss -11766.0537109375
+INFO:root:Epoch 009800 || Total Loss -13898.8056640625 || Generator Loss -631.0906982422 || Discriminator Loss -13267.7148437500
+INFO:root:Epoch 009900 || Total Loss -14012.9326171875 || Generator Loss -843.4674072266 || Discriminator Loss -13169.4648437500
+INFO:root:Epoch 010000 || Total Loss -13492.6230468750 || Generator Loss -780.0314941406 || Discriminator Loss -12712.5917968750
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493019159.5696616'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 010100 || Total Loss -12819.8310546875 || Generator Loss -565.1583251953 || Discriminator Loss -12254.6728515625
+INFO:root:Epoch 010200 || Total Loss -14195.6533203125 || Generator Loss -527.3312377930 || Discriminator Loss -13668.3222656250
+INFO:root:Epoch 010300 || Total Loss -15411.9375000000 || Generator Loss -423.7620544434 || Discriminator Loss -14988.1757812500
+INFO:root:Epoch 010400 || Total Loss -12235.0957031250 || Generator Loss -473.1501159668 || Discriminator Loss -11761.9453125000
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493020918.9733064'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 010500 || Total Loss -13832.4980468750 || Generator Loss -578.3549804688 || Discriminator Loss -13254.1425781250
+INFO:root:Epoch 010600 || Total Loss -15117.3046875000 || Generator Loss -707.3714599609 || Discriminator Loss -14409.9335937500
+INFO:root:Epoch 010700 || Total Loss -12436.6953125000 || Generator Loss -554.8764648438 || Discriminator Loss -11881.8183593750
+INFO:root:Epoch 010800 || Total Loss -16201.0830078125 || Generator Loss -675.6321411133 || Discriminator Loss -15525.4511718750
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493022677.0841615'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 010900 || Total Loss -15285.1347656250 || Generator Loss -537.8171386719 || Discriminator Loss -14747.3173828125
+INFO:root:Epoch 011000 || Total Loss -13440.9980468750 || Generator Loss -843.4452514648 || Discriminator Loss -12597.5527343750
+INFO:root:Epoch 011100 || Total Loss -17653.2675781250 || Generator Loss -662.8920288086 || Discriminator Loss -16990.3750000000
+INFO:root:Epoch 011200 || Total Loss -17190.4062500000 || Generator Loss -605.0076293945 || Discriminator Loss -16585.3984375000
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493024433.8648145'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 011300 || Total Loss -24756.3945312500 || Generator Loss -12980.9726562500 || Discriminator Loss -11775.4228515625
+INFO:root:Epoch 011400 || Total Loss -17316.1796875000 || Generator Loss -591.9523925781 || Discriminator Loss -16724.2265625000
+INFO:root:Epoch 011500 || Total Loss -19068.2011718750 || Generator Loss -640.4556274414 || Discriminator Loss -18427.7460937500
+INFO:root:Epoch 011600 || Total Loss -18421.8593750000 || Generator Loss -643.2746582031 || Discriminator Loss -17778.5839843750
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493026194.1292124'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 011700 || Total Loss -19083.9394531250 || Generator Loss -612.3422851562 || Discriminator Loss -18471.5976562500
+INFO:root:Epoch 011800 || Total Loss -21960.2929687500 || Generator Loss -4441.0498046875 || Discriminator Loss -17519.2421875000
+INFO:root:Epoch 011900 || Total Loss -16459.2500000000 || Generator Loss -1021.8649291992 || Discriminator Loss -15437.3847656250
+INFO:root:Epoch 012000 || Total Loss -15335.5283203125 || Generator Loss -1160.6787109375 || Discriminator Loss -14174.8496093750
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493027952.953497'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 012100 || Total Loss -20864.4589843750 || Generator Loss -664.5921630859 || Discriminator Loss -20199.8671875000
+INFO:root:Epoch 012200 || Total Loss -18995.9492187500 || Generator Loss -599.8289794922 || Discriminator Loss -18396.1210937500
+INFO:root:Epoch 012300 || Total Loss -18672.4824218750 || Generator Loss -642.6507568359 || Discriminator Loss -18029.8320312500
+INFO:root:Epoch 012400 || Total Loss -20489.5546875000 || Generator Loss -729.8826904297 || Discriminator Loss -19759.6718750000
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493029712.5328047'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 012500 || Total Loss -20383.3925781250 || Generator Loss -677.5249023438 || Discriminator Loss -19705.8671875000
+INFO:root:Epoch 012600 || Total Loss -21068.6640625000 || Generator Loss -636.7802734375 || Discriminator Loss -20431.8828125000
+INFO:root:Epoch 012700 || Total Loss -21457.8574218750 || Generator Loss -846.4360961914 || Discriminator Loss -20611.4218750000
+INFO:root:Epoch 012800 || Total Loss -17764.5878906250 || Generator Loss -684.8646240234 || Discriminator Loss -17079.7226562500
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493031471.496538'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 012900 || Total Loss -22777.4257812500 || Generator Loss -780.6625366211 || Discriminator Loss -21996.7636718750
+INFO:root:Epoch 013000 || Total Loss -21538.5761718750 || Generator Loss -694.1298217773 || Discriminator Loss -20844.4472656250
+INFO:root:Epoch 013100 || Total Loss -22698.1875000000 || Generator Loss -679.2009277344 || Discriminator Loss -22018.9863281250
+INFO:root:Epoch 013200 || Total Loss -22154.5625000000 || Generator Loss -631.3947753906 || Discriminator Loss -21523.1679687500
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493033229.5482132'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 013300 || Total Loss -24770.7167968750 || Generator Loss -642.6224365234 || Discriminator Loss -24128.0937500000
+INFO:root:Epoch 013400 || Total Loss -24538.3222656250 || Generator Loss -977.8491821289 || Discriminator Loss -23560.4726562500
+INFO:root:Epoch 013500 || Total Loss -23910.9765625000 || Generator Loss -729.2900390625 || Discriminator Loss -23181.6855468750
+INFO:root:Epoch 013600 || Total Loss -25903.6425781250 || Generator Loss -724.4945678711 || Discriminator Loss -25179.1484375000
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493034987.9320173'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 013700 || Total Loss -24226.4746093750 || Generator Loss -782.6817016602 || Discriminator Loss -23443.7929687500
+INFO:root:Epoch 013800 || Total Loss -24754.3496093750 || Generator Loss -798.5408935547 || Discriminator Loss -23955.8085937500
+INFO:root:Epoch 013900 || Total Loss -26472.0957031250 || Generator Loss -770.9323120117 || Discriminator Loss -25701.1640625000
+INFO:root:Epoch 014000 || Total Loss -26326.6367187500 || Generator Loss -801.5232543945 || Discriminator Loss -25525.1132812500
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493036746.722203'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 014100 || Total Loss -25253.5097656250 || Generator Loss -1064.0988769531 || Discriminator Loss -24189.4101562500
+INFO:root:Epoch 014200 || Total Loss -28018.2148437500 || Generator Loss -796.0968017578 || Discriminator Loss -27222.1171875000
+INFO:root:Epoch 014300 || Total Loss -16584.7656250000 || Generator Loss -4294.3447265625 || Discriminator Loss -12290.4208984375
+INFO:root:Epoch 014400 || Total Loss -28639.9394531250 || Generator Loss -883.5386962891 || Discriminator Loss -27756.4003906250
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493038506.1280358'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 014500 || Total Loss -28969.9355468750 || Generator Loss -806.6809082031 || Discriminator Loss -28163.2539062500
+INFO:root:Epoch 014600 || Total Loss -27050.3144531250 || Generator Loss -1027.8852539062 || Discriminator Loss -26022.4296875000
+INFO:root:Epoch 014700 || Total Loss -28168.6347656250 || Generator Loss -941.2984619141 || Discriminator Loss -27227.3359375000
+INFO:root:Epoch 014800 || Total Loss -27056.3750000000 || Generator Loss -1008.4180908203 || Discriminator Loss -26047.9570312500
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493040266.6965559'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 014900 || Total Loss -25072.9707031250 || Generator Loss -1603.0844726562 || Discriminator Loss -23469.8867187500
+INFO:root:Epoch 015000 || Total Loss -29104.6386718750 || Generator Loss -1184.3889160156 || Discriminator Loss -27920.2500000000
+INFO:root:Epoch 015100 || Total Loss -27913.4335937500 || Generator Loss -2170.9497070312 || Discriminator Loss -25742.4843750000
+INFO:root:Epoch 015200 || Total Loss -26336.0585937500 || Generator Loss -1404.4929199219 || Discriminator Loss -24931.5664062500
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493042025.303432'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 015300 || Total Loss -31021.2519531250 || Generator Loss -1095.8552246094 || Discriminator Loss -29925.3964843750
+INFO:root:Epoch 015400 || Total Loss -29609.8320312500 || Generator Loss -2043.0961914062 || Discriminator Loss -27566.7363281250
+INFO:root:Epoch 015500 || Total Loss -31354.5039062500 || Generator Loss -1017.1693115234 || Discriminator Loss -30337.3339843750
+INFO:root:Epoch 015600 || Total Loss -32816.3750000000 || Generator Loss -958.1660156250 || Discriminator Loss -31858.2109375000
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493043785.9825294'
+INFO:root:Weights have been saved.
+INFO:root:Epoch 015700 || Total Loss -32368.4414062500 || Generator Loss -976.3779296875 || Discriminator Loss -31392.0625000000
+INFO:root:Epoch 015800 || Total Loss -30367.6035156250 || Generator Loss -1120.9547119141 || Discriminator Loss -29246.6484375000
+INFO:root:Epoch 015900 || Total Loss -32262.5996093750 || Generator Loss -1157.2716064453 || Discriminator Loss -31105.3281250000
+INFO:root:Training complete. The session took 70373.21 seconds to complete.
+INFO:root:Proceeding to save weights at '/home/finalproject/Final-Project-In-AI/NIC/lib/generator_1493045539.035927'
+INFO:root:Weights have been saved.
